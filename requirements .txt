@@ -1,6 +1,5 @@
 neuralprophet 
 streamlit
 yfinance
-NeuralProphet
-set_random_seed
-plotly.graph_objects
+pandas
+plotly
